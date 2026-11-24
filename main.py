@@ -8,7 +8,7 @@ confidence that it did nothing wrong.
 
 import os
 
-EXCUSE = "The homework started it. It looked at me like that for three hours straight. I had to eat it before it ate me."
+EXCUSE = "The homework started it — it stared at me for three hours straight, so I ate it before it ate me."
 
 def main():
     os.makedirs("/output", exist_ok=True)
